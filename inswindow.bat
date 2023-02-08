@@ -11,6 +11,7 @@ https://github.com/git-for-windows/git/releases/download/v2.30.1.windows.1/Git-2
 echo 'export PATH="$PATH:/c/Program Files/Git/bin"' >> ~/.bashrc
 source ~/.bashrc
 
+
 # Confirm installation
 git --version
 
